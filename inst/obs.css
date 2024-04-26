@@ -1,0 +1,202 @@
+.card {
+  display: flex;
+  margin-top: 0.5em;
+  min-width: 35em;
+  background-color: #272727;
+  color: #fff;
+}
+
+#BOX_R_CODE {
+	background-color: #454e55;
+	color: #fff;
+	font-size: 120%;
+}
+
+.shiny-text-output.noplaceholder.shiny-bound-output {
+	color: black;
+	font-weight: bold;
+	font-size: medium;
+}
+
+.modal-content {
+	width: 750px;
+}
+
+code {
+	color: #0570dc;
+	font-size: 100%;
+}
+
+span {
+	color: #529fec;
+}
+
+span.code_to_html {
+	color: #7bbdff;
+	font-weight: bold;
+}
+
+p {
+	margin-bottom: 0;
+}
+
+p.code_to_html {
+	text-indent: 1em;
+}
+
+.brand-text.font-weight-light {
+	color:#fff;
+}
+
+#div_header_code_box {
+  display: flex;
+  align-items: center;
+}
+
+#BTN_BACK, #BTN_RESET {
+  margin: 0.2em;
+}
+
+.btn-default {
+  background-color: #09529a;
+  color: #fff;
+  border: none;
+}
+
+.sidebar-mini.sidebar-collapse .content-wrapper {
+  background-color: #0d0d0d;
+  border-color: #747474;
+}
+
+.sidebar-mini.sidebar-collapse .main-footer,
+.sidebar-mini.sidebar-collapse .main-header {
+  background-color: #272727;
+  border-color: #747474;
+}
+
+.selectize-control.single .selectize-input,
+.selectize-control.single .selectize-input input {
+  background: none;
+  color: #fff;
+}
+
+.selectize-control.multi .selectize-input > div {
+	background-color: #0570dc;
+	color: #fff;
+}
+
+.option.active {
+	background-color: #0570dc;
+	color: #fff;
+}
+
+.shiny-input-text.form-control.shiny-bound-input,
+.shiny-input-number.form-control.shiny-bound-input {
+	background: none;
+	color: #fff;
+}
+
+.Reactable {
+  background-color: #0d0d0d;
+}
+
+.Reactable .rt-table{
+  border-color: transparent;
+  background: transparent;
+}
+
+.Reactable .rt-thead {
+  color: #fff;
+  background-color: #085db2;
+}
+
+.Reactable .rt-tbody, .Reactable .rt-pagination {
+  color: #fff;
+  background-color: #272727;
+}
+
+.selectize-dropdown,
+.selectize-dropdown.form-control {
+  background-color: #272727;
+  color: #fff;
+}
+
+.selectize-input,
+.selectize-control.single .selectize-input.input-active {
+  background-color: #272727;
+}
+
+.selectize-control.single .selectize-input:after {
+	border-color: #fff transparent transparent transparent
+}
+.selectize-control.single .selectize-input.dropdown-active:after {
+	border-color: transparent transparent #fff transparent
+}
+.content-wrapper > .content {
+  background-color: #0d0d0d;
+}
+
+body:not(.sidebar-mini-md) .content-wrapper {
+  background-color: #0d0d0d;
+  border-color: #747474;
+}
+
+body:not(.sidebar-mini-md) .main-footer,
+body:not(.sidebar-mini-md) .main-header {
+  background-color: #272727;
+  border-color: #747474;
+}
+
+.os-content {
+  background-color: #272727;
+}
+
+.modal-content {
+  background-color: #272727;
+  color: #fff;
+}
+
+pre.shiny-text-output {
+  color: #fff;
+}
+
+.shiny-split-layout > div {
+  vertical-align: middle;
+  overflow: visible;
+}
+
+.option:hover {
+  color: #fff;
+  background-color: #0570dc;
+}
+
+.btn-default.hover, .btn-default:active, .btn-default:hover {
+  color: #fff;
+  background-color: #0570dc;
+}
+
+.tour_button {
+  font-weight: bold;
+  color:white;
+}
+
+#INTRO {
+  float: right;
+  margin-right: 0.5em;
+}
+
+#BTN_ADD_TAB, #BTN_RMV_TAB{
+  margin: 0.2em;
+  margin-left: 0.5em;
+  width: 161px;
+}
+
+#BTN_EXEC_FCT, #BTN_SELEC_FCT {
+  width: 215px;
+  float: right;
+  font-size: 125%;
+}
+
+.selectize-control.single{
+	color: #fff
+}
